@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FootIK.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.cpp.obj"
+"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp.obj"
+"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Default.rc2.res"
+/OUT:"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\UE4Editor-FootIK.lib"
+/INCLUDE:IMPLEMENT_MODULE_FootIK

@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FootIK.cpp.obj": [
+			"AnimatedNode_FootIK.cpp.obj",
+			"FootIK.cpp.obj"
+		],
+		"Module.FootIK.gen.cpp.obj": [
+			"AnimatedNode_FootIK.gen.cpp.obj",
+			"FootIK.init.gen.cpp.obj"
+		]
+	}
+}
