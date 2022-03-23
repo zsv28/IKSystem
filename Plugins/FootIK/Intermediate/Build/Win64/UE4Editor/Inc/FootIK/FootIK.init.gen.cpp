@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFootIK_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x43FD8490,
+				0x808A0841,
 				0xDFAE0B5B,
 				METADATA_PARAMS(nullptr, 0)
 			};

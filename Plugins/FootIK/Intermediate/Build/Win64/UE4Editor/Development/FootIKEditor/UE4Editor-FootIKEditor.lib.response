@@ -6,9 +6,8 @@
 /NAME:"UE4Editor-FootIKEditor.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.cpp.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.gen.cpp.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Default.rc2.res"
-/OUT:"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\UE4Editor-FootIKEditor.lib"
-/INCLUDE:IMPLEMENT_MODULE_FootIKEditor
+"C:\UE\IKSystemDemo 4.27\Intermediate\Build\Win64\IKSystemDemoEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.cpp.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Module.FootIKEditor.gen.cpp.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\Default.rc2.res"
+/OUT:"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIKEditor\UE4Editor-FootIKEditor.lib"

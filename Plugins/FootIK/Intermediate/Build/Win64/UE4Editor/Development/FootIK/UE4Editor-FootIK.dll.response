@@ -1,5 +1,5 @@
 /MANIFEST:EMBED
-/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.26\Engine\Build\Windows\Resources\Default-Win64.manifest"
+/MANIFESTINPUT:"C:\Program Files\Epic Games\UE_4.27\Engine\Build\Windows\Resources\Default-Win64.manifest"
 /NOLOGO
 /DEBUG
 /errorReport:prompt
@@ -33,18 +33,18 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
-"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.cpp.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp.obj"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Default.rc2.res"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimGraphRuntime\UE4Editor-AnimGraphRuntime.lib"
-"C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimationCore\UE4Editor-AnimationCore.lib"
+"C:\UE\IKSystemDemo 4.27\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.cpp.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp.obj"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Default.rc2.res"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimGraphRuntime\UE4Editor-AnimGraphRuntime.lib"
+"C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Development\AnimationCore\UE4Editor-AnimationCore.lib"
 "delayimp.lib"
 "wininet.lib"
 "rpcrt4.lib"
@@ -69,8 +69,7 @@
 "setupapi.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\UE\IKSystemDemo\Plugins\FootIK\Binaries\Win64\UE4Editor-FootIK.dll"
-/IMPLIB:"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\UE4Editor-FootIK.suppressed.lib"
-/PDB:"C:\UE\IKSystemDemo\Plugins\FootIK\Binaries\Win64\UE4Editor-FootIK.pdb"
+/OUT:"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Binaries\Win64\UE4Editor-FootIK.dll"
+/IMPLIB:"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\UE4Editor-FootIK.suppressed.lib"
+/PDB:"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Binaries\Win64\UE4Editor-FootIK.pdb"
 /ignore:4078
-/INCLUDE:IMPLEMENT_MODULE_FootIK

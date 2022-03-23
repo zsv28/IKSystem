@@ -28,10 +28,11 @@
 /we4458
 /we4459
 /wd4463
+/we4668
 /wd4244
 /wd4838
 /I .
-/I C:\UE\IKSystemDemo\Plugins\FootIK\Source\FootIK\Private
+/I "C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Source\FootIK\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -77,6 +78,8 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags
 /I Runtime\GameplayTags\Classes
 /I Runtime\GameplayTags\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings
+/I Runtime\DeveloperSettings\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler
 /I Runtime\PacketHandlers
 /I Runtime\PacketHandlers\PacketHandler\Classes
@@ -94,8 +97,6 @@
 /I Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\PhysicsCore
 /I Runtime\PhysicsCore\Public
-/I ..\Intermediate\Build\Win64\UE4Editor\Inc\DeveloperSettings
-/I Runtime\DeveloperSettings\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\Chaos
 /I Runtime\Experimental
 /I Runtime\Experimental\Chaos\Public
@@ -231,9 +232,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Inc\FootIK
-/I C:\UE\IKSystemDemo\Plugins\FootIK\Source
-/I C:\UE\IKSystemDemo\Plugins\FootIK\Source\FootIK\Public
+/I "C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Inc\FootIK"
+/I "C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Source"
+/I "C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Source\FootIK\Public"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\AnimGraphRuntime
 /I Runtime\AnimGraphRuntime\Public
 /I ThirdParty\PhysX3\PxShared\include
@@ -265,12 +266,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\UE\IKSystemDemo\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp"
-/FI"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Definitions.FootIK.h"
-/Fo"C:\UE\IKSystemDemo\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp.obj"
+/FI"C:\UE\IKSystemDemo 4.27\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\UE\IKSystemDemo 4.27\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\UE\IKSystemDemo 4.27\Intermediate\Build\Win64\IKSystemDemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp"
+/FI"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Definitions.FootIK.h"
+/Fo"C:\UE\IKSystemDemo 4.27\Plugins\FootIK\Intermediate\Build\Win64\UE4Editor\Development\FootIK\Module.FootIK.gen.cpp.obj"
 /TP
 /GR-
 /W4

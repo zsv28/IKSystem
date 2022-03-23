@@ -48,7 +48,7 @@ static struct FScriptStruct_FootIK_StaticRegisterNativesFAnimatedNode_FootIK
 {
 	FScriptStruct_FootIK_StaticRegisterNativesFAnimatedNode_FootIK()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("AnimatedNode_FootIK")),new UScriptStruct::TCppStructOps<FAnimatedNode_FootIK>);
+		UScriptStruct::DeferCppStructOps<FAnimatedNode_FootIK>(FName(TEXT("AnimatedNode_FootIK")));
 	}
 } ScriptStruct_FootIK_StaticRegisterNativesFAnimatedNode_FootIK;
 	struct Z_Construct_UScriptStruct_FAnimatedNode_FootIK_Statics
@@ -248,7 +248,7 @@ static struct FScriptStruct_FootIK_StaticRegisterNativesFFoot
 {
 	FScriptStruct_FootIK_StaticRegisterNativesFFoot()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("Foot")),new UScriptStruct::TCppStructOps<FFoot>);
+		UScriptStruct::DeferCppStructOps<FFoot>(FName(TEXT("Foot")));
 	}
 } ScriptStruct_FootIK_StaticRegisterNativesFFoot;
 	struct Z_Construct_UScriptStruct_FFoot_Statics
@@ -367,7 +367,7 @@ static struct FScriptStruct_FootIK_StaticRegisterNativesFPelvis
 {
 	FScriptStruct_FootIK_StaticRegisterNativesFPelvis()
 	{
-		UScriptStruct::DeferCppStructOps(FName(TEXT("Pelvis")),new UScriptStruct::TCppStructOps<FPelvis>);
+		UScriptStruct::DeferCppStructOps<FPelvis>(FName(TEXT("Pelvis")));
 	}
 } ScriptStruct_FootIK_StaticRegisterNativesFPelvis;
 	struct Z_Construct_UScriptStruct_FPelvis_Statics
